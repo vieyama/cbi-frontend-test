@@ -1,5 +1,5 @@
 {
-  "name": "tokped-test",
+  "name": "cbi-frontend-test",
   "private": true,
   "scripts": {
     "dev": "next dev",
